@@ -14,6 +14,6 @@ Finalized version of meta labeling.
 Calibration seems to be that isotonic calibration works well.
 ![calibration](https://github.com/mHamzaArain/AIQuantitativeFinance/assets/44979074/5cb57b2b-8a85-4741-92fe-aa3e18573fbf)
 
-## Architecture Inspration
+## Architecture Inspiration
 ![idea2](https://github.com/mHamzaArain/AIQuantitativeFinance/assets/44979074/2923e9dc-50ff-46e9-ba39-11cea9f30b84)
 ![idea](https://github.com/mHamzaArain/AIQuantitativeFinance/assets/44979074/6bf34a2e-7446-4562-885f-8040605be664)
